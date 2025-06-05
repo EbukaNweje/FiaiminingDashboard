@@ -51,7 +51,7 @@ const DepositPay = () => {
       
 
       const [state, setState] = useState({
-        value: "1FMmHT4HoqeWrJwa8CRxsUFUC7PrpfdhFb",
+        value: "bc1q8xh2e0d4dk7pqsvwletn8tvl5vzxg7u0sfud4m",
         copied: false,
       });
 
